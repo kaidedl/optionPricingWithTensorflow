@@ -1,3 +1,2 @@
-# optionPricingWithTensorflow
-we look at option pricing via monte carlo simulation using numpy, tensorflow cpu and tensorflow gpu.
-We compare the run times by considering an example product.
+# Monte Carlo option pricing in tensorflow
+this is the code used and explained in the Medium post
