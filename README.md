@@ -1,2 +1,2 @@
 # Monte Carlo option pricing in tensorflow
-this is the code used and explained in the Medium post (pdf version available here)  
+this is the code used and explained in my ssrn paper with the same title   
